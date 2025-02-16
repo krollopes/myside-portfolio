@@ -1,19 +1,33 @@
 const projects = [
   {
-    name: 'Nexo Políticas Públicas',
-    description: 'Premiação por matéria do SUS.',
+    name: 'Profit-e',
+    description:
+      'Desenvolvimento de e-commerces utilizando HTML, CSS, acessibilidade e Angular.',
   },
   {
-    name: 'Modernização Braskem',
-    description: 'React Class → Functional, testes e design system.',
+    name: 'Nexo Jornal',
+    description:
+      'Criação de experiências interativas para uma plataforma de notícias inovadora. Participei ativamente da criação e coordenação da matéria premiada do Nexo Jornal sobre o SUS, contribuindo no desenvolvimento técnico e na gestão do projeto, que abordou o passado, o presente e o futuro do Sistema Único de Saúde.',
+    // https://ijf.org.br/o-que-e-de-onde-veio-e-para-onde-vai-o-sus/?utm_source=chatgpt.com
   },
-  { name: 'Linker', description: 'Implementação da devolução do PIX.' },
+  {
+    name: 'Radix - Braskem',
+    description:
+      'Modernização de sistema petroquímico, migração de componentes de classe para funcionais, implementação de design system, testes com Jest e React Testing Library.',
+  },
+  {
+    name: 'Linker Banco',
+    description:
+      'Desenvolvimento de interfaces e criação da funcionalidade de devolução do Pix, agregando valor ao banco, além de outras features.',
+  },
 ];
 
 export default function Projects() {
   return (
     <section id='projects' className='py-20 bg-gray-900 text-white'>
-      <h2 className='text-center text-4xl font-bold'>Projetos</h2>
+      <h2 className='text-center text-4xl font-bold'>
+        Alguns projetos dos quais participei.
+      </h2>
       <div className='container mx-auto grid grid-cols-1 md:grid-cols-3 gap-6 mt-8'>
         {projects.map((project, index) => (
           <div
