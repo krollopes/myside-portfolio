@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Meu Portfólio
 
-## Getting Started
+Bem-vindo(a) ao meu portfólio! Aqui compartilho um pouquinho sobre minha experiência, projetos e conhecimentos como **Front-end Engineer**.
 
-First, run the development server:
+## 🎨 Sobre Mim
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Olá, sou **Caroline**, uma desenvolvedora front-end apaixonada por criar experiências digitais incríveis, priorizando **UX/UI, acessibilidade e melhores práticas**.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tecnologias Principais
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js** ⚡
+- **TypeScript** 🦕
+- **React** ⚛️
+- **Styled Components** 💅
+- **Jest & React Testing Library** 🧪
+- **Design Systems** 🎨
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Projetos em Destaque
 
-## Learn More
+### [Profit-e](#)
+E-commerces personalizados com foco em acessibilidade e usabilidade.
 
-To learn more about Next.js, take a look at the following resources:
+### [Nexo Jornal](https://ijf.org.br/o-que-e-de-onde-veio-e-para-onde-vai-o-sus/?utm_source=chatgpt.com)
+Criação de interfaces interativas, otimizações de desempenho e desenvolvimento técnico para reportagem **premiada**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### [Radix - Braskem](#)
+Modernização de sistemas petroquímicos com escalabilidade, refatoração e cobertura de testes.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### [Linker Banco](#)
+Criação da funcionalidade de devolução de Pix, otimização de componentes e melhorias de performance.
 
-## Deploy on Vercel
+## 📞 Contato
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+💼 [LinkedIn](https://www.linkedin.com/in/caroline-lopes/)
+🐙 [GitHub](https://github.com/krollopes/)
+📧 [E-mail](mailto:carolinelopes836@gmail.com)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+_"Construindo interfaces intuitivas e acessíveis para um mundo digital melhor."_
+
