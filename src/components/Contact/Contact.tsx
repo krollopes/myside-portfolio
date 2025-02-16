@@ -20,7 +20,7 @@ export default function Contact() {
           <FaLinkedin size={24} /> LinkedIn
         </a>
         <a
-          href='https://github.com/seu-usuario'
+          href='https://github.com/krollopes'
           target='_blank'
           rel='noopener noreferrer'
           className='flex items-center gap-2 text-gray-400 hover:text-gray-600 transition text-lg'
