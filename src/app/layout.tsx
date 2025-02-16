@@ -8,7 +8,7 @@ export default function Layout({ children }: { children: ReactNode }) {
     <html lang='pt-br'>
       <body>
         <Header />
-        {children} {/* Conteúdo das páginas será renderizado aqui */}
+        {children}
         <Footer />
       </body>
     </html>
