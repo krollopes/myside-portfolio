@@ -2,11 +2,9 @@ import Link from 'next/link';
 
 export default function Header() {
   return (
-    <header className='w-full py-4 bg-black text-white fixed top-0 left-0 z-50'>
+    <header className='w-full py-4 bg-black text-white'>
       <nav className='container mx-auto flex justify-between items-center'>
-        <h1 className='text-xl font-bold'>
-          Caroline - Desenvolvedora Fron End
-        </h1>
+        <h1 className='text-xl font-bold'>Caroline Dev</h1>
         <div>
           <Link href='#projects' className='px-4'>
             Projetos
